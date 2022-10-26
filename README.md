@@ -20,3 +20,5 @@ All my project are Available on my [Github Profile](https://github.com/SterotECH
 7. MySQL
 8. Postgresql
 9. Firebase
+10. SQL
+11. Mongodb
