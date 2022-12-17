@@ -3,7 +3,7 @@
 ### I am a fullstack Developer
 
 ## About Me
-I am Currently Learning Django.
+I am Currently Learning react
 
 I am looking forward to collaborate on an **open source Project**.
 
